@@ -46,9 +46,8 @@ These forecasts are then combined to generate nominal GDP predictions through:
 
 ### 📄 Files
 
-- `gdp_forecasting/code/`: R scripts used for data wrangling, modeling, residual diagnostics, and forecasting
+- `gdp_forecasting/script/`: R scripts used for data wrangling, modeling, residual diagnostics, and forecasting
 - `gdp_forecasting/GDP Forecasting Report.pdf`: Final write-up and results
-- `gdp_forecasting/plots/`: (Optional) Visualizations and residual diagnostic plots
 
 ---
 
